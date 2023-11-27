@@ -1,2 +1,2 @@
-# coursera-test
-coursera test repository
+#testing project
+check a project 
